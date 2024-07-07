@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+}
+#labelContainer{
+    display: block;
+    font-size: 10em;
+}
+.Btn1{
+   font-family: Verdana;
+   font-size: 3em;
+color: aliceblue;
+   border-radius: 5px;
+   padding: 10px 20px;
+   background-color: rgb(13, 169, 127);
+   cursor: pointer;
+}
+.Btn1:hover{
+    background-color: rgb(12, 138, 104);
+}
