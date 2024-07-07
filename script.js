@@ -129,6 +129,29 @@ Cette fonction renvoie le plus grand entier
 
 //console.log(x);
 
+// const myText = document.getElementById("myText");
+// const submitbtn = document.getElementById("submitbtn");
+// const myMassage = document.getElementById("myMassage");
+
+// let age;
+
+// submitbtn.onclick = function () {
+//     age = myText.value;
+//     age = Number(age);
+//     if (age >= 18) {
+//         myMassage.textContent = `you're old enougth to enter this site`;
+//     } else {
+//         myMassage.textContent = `you're not old enougth to enter this site`;
+
+//     }
+// }
+
+
+
+
+
+
+
 
 
 
